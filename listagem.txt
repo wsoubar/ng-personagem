@@ -1,0 +1,25 @@
+ O volume na unidade C ‚ SSD-240Gb
+ O N£mero de S‚rie do Volume ‚ 6C3C-6ACA
+
+ Pasta de C:\code\people
+
+21/06/2019  04:31    <DIR>          .
+21/06/2019  04:31    <DIR>          ..
+21/06/2019  02:50               246 .editorconfig
+21/06/2019  02:50               629 .gitignore
+21/06/2019  02:50             3.513 angular.json
+21/06/2019  02:50               429 browserslist
+21/06/2019  02:50    <DIR>          e2e
+21/06/2019  02:50             1.018 karma.conf.js
+21/06/2019  04:31                 0 listagem.txt
+21/06/2019  02:53    <DIR>          node_modules
+21/06/2019  02:52           349.085 package-lock.json
+21/06/2019  02:50             1.279 package.json
+21/06/2019  02:50             1.023 README.md
+21/06/2019  02:50    <DIR>          src
+21/06/2019  02:50               210 tsconfig.app.json
+21/06/2019  02:50               470 tsconfig.json
+21/06/2019  02:50               270 tsconfig.spec.json
+21/06/2019  02:50             1.985 tslint.json
+              13 arquivo(s)        360.157 bytes
+               5 pasta(s)   194.959.593.472 bytes dispon¡veis
